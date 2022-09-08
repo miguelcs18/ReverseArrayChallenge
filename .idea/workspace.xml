@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ac17f1c-7875-4754-aeef-26e621ca7ed7" name="Changes" comment="Go over array">
+    <list default="true" id="6ac17f1c-7875-4754-aeef-26e621ca7ed7" name="Changes" comment="Print reverse array">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +43,20 @@
     "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="ReverseArrayChallenge" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -50,7 +65,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662568395464</updated>
-      <workItem from="1662568398514" duration="861000" />
+      <workItem from="1662568398514" duration="6808000" />
     </task>
     <task id="LOCAL-00001" summary="Go over array">
       <created>1662569082883</created>
@@ -59,7 +74,35 @@
       <option name="project" value="LOCAL" />
       <updated>1662569082883</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Reverse array logic">
+      <created>1662569279620</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1662569279621</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Create array">
+      <created>1662569338173</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1662569338173</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Print normal array">
+      <created>1662569391929</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1662569391929</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Print reverse array">
+      <created>1662569540399</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1662569540399</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -78,6 +121,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Go over array" />
-    <option name="LAST_COMMIT_MESSAGE" value="Go over array" />
+    <MESSAGE value="Reverse array logic" />
+    <MESSAGE value="Create array" />
+    <MESSAGE value="Print normal array" />
+    <MESSAGE value="Print reverse array" />
+    <option name="LAST_COMMIT_MESSAGE" value="Print reverse array" />
   </component>
 </project>
